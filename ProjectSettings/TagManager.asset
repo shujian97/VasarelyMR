@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1881065715
+    locked: 0
+  - name: foreground
+    uniqueID: 967125673
+    locked: 0
+  - name: 30
+    uniqueID: 1657961885
+    locked: 0
+  - name: 29
+    uniqueID: 3663041049
+    locked: 0
+  - name: 28
+    uniqueID: 915387739
+    locked: 0
+  - name: 27
+    uniqueID: 3349377469
+    locked: 0
+  - name: 26
+    uniqueID: 1072450023
+    locked: 0
+  - name: 25
+    uniqueID: 2366955633
+    locked: 0
+  - name: 24
+    uniqueID: 3726096773
+    locked: 0
+  - name: 23
+    uniqueID: 3432338229
+    locked: 0
+  - name: 22
+    uniqueID: 2685072749
+    locked: 0
+  - name: 21
+    uniqueID: 992166077
+    locked: 0
+  - name: 20
+    uniqueID: 2285929087
+    locked: 0
+  - name: 19
+    uniqueID: 369941241
+    locked: 0
+  - name: 18
+    uniqueID: 266172187
+    locked: 0
+  - name: 17
+    uniqueID: 2749161875
+    locked: 0
+  - name: 16
+    uniqueID: 2021349775
+    locked: 0
+  - name: 15
+    uniqueID: 3224733683
+    locked: 0
+  - name: 14
+    uniqueID: 3899305369
+    locked: 0
+  - name: 13
+    uniqueID: 3304120129
+    locked: 0
+  - name: 12
+    uniqueID: 3047969145
+    locked: 0
+  - name: 11
+    uniqueID: 1288332051
+    locked: 0
+  - name: 10
+    uniqueID: 3240266403
+    locked: 0
+  - name: 9
+    uniqueID: 2493026541
+    locked: 0
+  - name: 8
+    uniqueID: 4201973249
+    locked: 0
+  - name: 7
+    uniqueID: 66420467
+    locked: 0
+  - name: 6
+    uniqueID: 888705965
+    locked: 0
+  - name: 5
+    uniqueID: 3241880641
+    locked: 0
+  - name: 4
+    uniqueID: 3708348167
+    locked: 0
+  - name: 3
+    uniqueID: 2029357149
+    locked: 0
+  - name: 2
+    uniqueID: 2654294191
+    locked: 0
+  - name: 1
+    uniqueID: 2855016221
+    locked: 0
